@@ -5,6 +5,7 @@ import { Stack } from 'expo-router/stack';
 import * as SplashScreen from 'expo-splash-screen';
 import { PaperProvider } from 'react-native-paper';
 import { useTranslation } from 'react-i18next';
+import { NavigationContainer } from '@react-navigation/native';
 
 import { lightTheme } from '../theme/lightTheme';
 import { darkTheme } from '../theme/darkTheme';
