@@ -4,5 +4,31 @@
     "homeTab": "Homes",
     "settings": "Settings",
     "signup": "Sign Up"
+  },
+  "auth": {
+    "signUp": {
+      "title": "Sign Up",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "email",
+      "password": "password",
+      "submit": "submit",
+      "account": "Already have an Account ?",
+      "signIn": "Sign In"
+    },
+    "signIn": {
+      "title": "Sign In",
+      "email": "email",
+      "password": "password",
+      "submit": "submit",
+      "account": "Don't have any account ?",
+      "signUp": "Sign Up",
+      "forgotPassword": "Forgot Password ?"
+    },
+    "forgotPassword": {
+      "title": "Forgot Password",
+      "email": "email",
+      "submit": "submit"
+    }
   }
 }
